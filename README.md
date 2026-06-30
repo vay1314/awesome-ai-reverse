@@ -43,7 +43,7 @@
 |------|------|
 | [jshookmcp](https://github.com/vmoranv/jshookmcp) | 面向 AI 辅助 JS 安全分析的 MCP 服务器，集成浏览器自动化、CDP 调试、网络监控、JS Hook、WASM 工具链、Source Map 重建、AST 变换等能力于一体。 |
 | [JS Reverse MCP](https://github.com/zhizhuodemao/js-reverse-mcp) | JS 逆向 MCP 服务器，让 Claude/Cursor/Copilot 等 AI 编码助手直接调试和分析网页 JavaScript 代码。 |
-| [Camoufox Skill](https://github.com/WhiteNightShadow/hello_js_reverse_skill) | 面向逆向分析与爬虫对抗的 Skill，基于 Camoufox 反检测浏览器实现网络捕获、源码定位、Hook 调试与算法还原的完整工作流。 |
+| [hello](https://github.com/WhiteNightShadow/hello_js_reverse_skill) | 面向逆向分析与爬虫对抗的 Skill，基于 Camoufox 反检测浏览器实现网络捕获、源码定位、Hook 调试与算法还原的完整工作流。 |
 | [js-reverse-automation--skill](https://github.com/Fausto-404/js-reverse-automation--skill) | 结合 chrome-devtools-mcp 与 Skill 规范，实现 JSRPC + Flask + autoDecoder 的前端 JS 逆向自动化方案。 |
 | [JSHook Reverse Tool](https://github.com/wuji66dde/jshook-skill) | AI 驱动的 JavaScript 逆向工程工具。 |
 | [reverse-skill](https://github.com/715494637/reverse-skill/) | Web JS 逆向 Skill 仓库，覆盖请求链定位、运行时诊断、AST 混淆恢复、JSVMP、Worker、WASM、Webpack 与协议语义分析。 |
@@ -91,6 +91,7 @@
 | [Camoufox MCP Server](https://github.com/whit3rabbit/camoufox-mcp) | 基于 Camoufox（隐私优先的 Firefox 分叉版）的浏览器自动化 MCP 服务器，具有先进的反检测功能。 |
 | [Charles MCP Server](https://github.com/heizaheiza/Charles-mcp) | 将 Charles Proxy 接入 MCP 客户端，让 Agent 稳定读取实时流量、分析历史录包。 |
 | [Anything Analyzer](https://github.com/Mouseww/anything-analyzer) | 操作一遍网站或应用，AI 就把协议逆向、加密分析、安全审计全干了。 |
+| [firefox-reverse](https://github.com/WhiteNightShadow/firefox-reverse) | 一个内置 AI 逆向工程师的 Firefox。 |
 
 
 
