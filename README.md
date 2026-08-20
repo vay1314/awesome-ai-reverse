@@ -93,6 +93,8 @@
 | [Charles MCP Server](https://github.com/heizaheiza/Charles-mcp) | 将 Charles Proxy 接入 MCP 客户端，让 Agent 稳定读取实时流量、分析历史录包。 |
 | [Anything Analyzer](https://github.com/Mouseww/anything-analyzer) | 操作一遍网站或应用，AI 就把协议逆向、加密分析、安全审计全干了。 |
 | [firefox-reverse](https://github.com/WhiteNightShadow/firefox-reverse) | 一个内置 AI 逆向工程师的 Firefox。 |
+| [patchright-mcp](https://github.com/zhizhuodemao/patchright-mcp) | Patchright fork for js-reverse-mcp with protocol-level observable-side-effect fixes |
+
 
 
 
