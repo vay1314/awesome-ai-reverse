@@ -74,6 +74,7 @@
 
 | 项目 | 简介 |
 |------|------|
+| [apk-reverse](https://github.com/newliver666/apk-reverse) | 面向 Android APK 逆向工程、去臃肿、去广告、外科式 dex 补丁、重打包，以及运行时/服务端分析的 Agent Skill。 |
 | [Android RE Skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | 反编译 APK/XAPK/JAR/AAR 文件，自动提取 Retrofit 端点、OkHttp 调用、硬编码 URL 等 HTTP API。 |
 | [JADX-AI-MCP](https://github.com/zinja-coder/jadx-ai-mcp) | 全自动 MCP 服务器 + JADX 插件，通过 LLM 分析 Android APK，发现漏洞与逆向工程。 |
 | [Frida MCP Server](https://github.com/zhizhuodemao/frida-mcp) | MCP 服务器，让 AI 模型使用 Frida 进行 Android 动态分析。 |
